@@ -4,7 +4,7 @@
 <p align="center">
     what ?
 <p align="center">  
-<img src="https://komarev.com/ghpvc/?username=diecrips&color=grey">
+<img src="https://komarev.com/ghpvc/?username=walawhat&color=grey">
 </p>
     <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/881888876216586290.png"/>
